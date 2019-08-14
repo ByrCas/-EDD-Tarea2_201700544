@@ -1,0 +1,1 @@
+digraph{ rankdir=LR; node [shape=record,width=5,height=.5, fillcolor=darkseagreen4, style=filled]; nodesep=0.02; node0[label = "{16|17|18|19}"]; node1[label = "{12|13|14|15}"]; node2[label = "{8|9|10|11}"]; node3[label = "{4|5|6|7}"]; node4[label = "{0|1|2|3}"]; }
